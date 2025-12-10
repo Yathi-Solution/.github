@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.svg" alt="Yathi Solutions Logo" width="200"/>
+  <img src="../assets/logo.svg" alt="Yathi Solutions Logo" width="200"/>
   
   <p>India's Premiere Idea Incubation Center</p>
   
